@@ -1,0 +1,3 @@
+5. ¿Qué riesgos éticos implica delegar información médica sensible a sistemas automatizados?
+Delegar datos médicos sensibles a sistemas automatizados implica riesgos de privacidad, seguridad y posible sesgo en los algoritmos. Además, errores o interpretaciones incorrectas podrían afectar decisiones críticas. Por tanto, es fundamental garantizar transparencia, control humano, y cumplimiento de estándares éticos y legales en el manejo de esta información.
+

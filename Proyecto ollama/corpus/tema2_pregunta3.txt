@@ -1,0 +1,3 @@
+3. ¿Qué papel podrían (o no deberían) tener los sistemas de inteligencia artificial en este tipo de decisiones?
+Los sistemas de inteligencia artificial pueden ofrecer soporte informativo, análisis de datos médicos y evaluación de riesgos, pero no deberían reemplazar el juicio humano ni la deliberación ética personal. Su función ideal es servir como herramienta para facilitar la toma de decisiones informadas, respetando la autonomía y la sensibilidad del contexto.
+
